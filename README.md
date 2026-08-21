@@ -1,4 +1,4 @@
-# 🦞 LOBSTER Market Microstructure Predictor
+# LOBSTER Market Microstructure Predictor
 ### Capstone Project — NASDAQ LOB Direction Prediction & Smart Order Execution
 
 ---
