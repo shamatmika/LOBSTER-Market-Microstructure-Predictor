@@ -1,11 +1,11 @@
 # LOBSTER Market Microstructure Predictor
-### Capstone Project — NASDAQ LOB Direction Prediction & Smart Order Execution
+### NASDAQ LOB Direction Prediction & Smart Order Execution
 
 ---
 
 ## Project Overview
 
-This capstone builds a **production-grade ML pipeline** that:
+This project builds a **production-grade ML pipeline** that:
 1. Loads LOBSTER academic-grade NASDAQ orderbook reconstructions
 2. Engineers microstructure features from 10-level bid/ask snapshots
 3. Trains a **CNN-LSTM** to predict price direction (UP / FLAT / DOWN) over the next 10 events
@@ -18,7 +18,7 @@ This capstone builds a **production-grade ML pipeline** that:
 ## Project Structure
 
 ```
-LOBSTER_Capstone/
+LOBSTER_Market-Microstructure-Predictor/
 │
 ├── 00_setup_and_data_download.ipynb    ← Install deps, validate LOBSTER files
 ├── 01_eda_and_preprocessing.ipynb      ← EDA, cleaning, visualisations
